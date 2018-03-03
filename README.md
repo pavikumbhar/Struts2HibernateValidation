@@ -1,13 +1,13 @@
 
-### Struts2HibernateValidation
+# Struts2HibernateValidation
 =======
 
-# Struts 2 Example with Hibernate Validator and  Struts 2 BootStrap Plugin
+## Struts 2 Example with Hibernate Validator and  Struts 2 BootStrap Plugin
 
 ## Required Jar
 -------------------------------------------
 ---------------------------------------
-```java
+```
 1]  antlr-2.7.6
 2]  asm-1.5.3
 3]  asm-3.3
